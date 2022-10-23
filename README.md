@@ -1,6 +1,6 @@
 # 👋 Hola, Bienvenido a mi perfil 
 
-<img src="assets\img\BR2.jpeg" width="25%">
+<img src="iPortfolio\assets\img\BR2.jpeg" width="25%">
 <br>
 
 Soy un **TEGNOLOGO** de sistemas, además estoy aprendiendo el arte de la **BARBERIA**, en este momento estoy cursando 6to semestre de **INGENERIA EN SISTEMAS** en la universidad manizales, Me gustaria especializarme en hacking etico y ciberseguridad.
